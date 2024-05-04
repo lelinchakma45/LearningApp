@@ -6,7 +6,7 @@
         android:icon="@drawable/home"/>
 
     <item android:id="@+id/catagoryFragment"
-        android:title="Category"
+        android:title="BMI "
         android:icon="@drawable/options"/>
 
     <item android:id="@+id/shareFragment"
@@ -14,7 +14,7 @@
         android:icon="@drawable/share"/>
 
     <item android:id="@+id/profileFragment"
-        android:title="Profile"
+        android:title="Temparature"
         android:icon="@drawable/user"/>
 
 </menu>
